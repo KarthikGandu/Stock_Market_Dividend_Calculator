@@ -69,22 +69,8 @@ If you want/need help, you can always reach out to me.
 
 ## Authors
 
-Maximilian Sören Pollak
+Karthik Gandu
 
-[Github](https://github.com/maximiliansoerenpollak)  
-[LinkedIn](https://linkedin.com/in/msoerenpollak)
-
-## Version History
-
-* 0.2
-    * Added Readme
-    * Fixed interface.py to work with streamlit.
-    * Added .gitignore
-    * Added MIT License
-* 0.1
-    * Initial Commit
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.txt file for details
+[Github](https://github.com/KarthikGandu)  
+[LinkedIn](https://www.linkedin.com/in/karthik-g-7a748518a/)
 
