@@ -1,4 +1,4 @@
-# DiviPy - Streamlit
+# Dividend-Calculator - Streamlit
 
 This is a small app, build with Streamlit. It will recommend up to 100 Stocks (with dividends) based on filters, and calculate some statics.
 This is build, to help you find new stocks and then go and research them further. **This is NOT investment advice**, rather a help for finding new opportunities.</p> 
